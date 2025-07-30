@@ -44,4 +44,4 @@ To ensure continuity and onboarding, I conducted a series of KT (Knowledge Trans
 - ✅ **Session 3** – React frontend structure and speech integration
 - ✅ **Session 4** – Prompt tuning and Human-in-the-Loop logging
 
-KT sessions were delivered via Cisco Webex and uploaded to Google Drive for internal team reference.
+KT sessions were delivered via Cisco Webex and uploaded to Google Drive for internal team reference
