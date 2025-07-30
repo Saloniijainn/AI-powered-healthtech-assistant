@@ -1,0 +1,9 @@
+pandas
+matplotlib
+faiss-cpu
+sentence-transformers
+openai
+python-dotenv
+beautifulsoup4
+requests
+numpy

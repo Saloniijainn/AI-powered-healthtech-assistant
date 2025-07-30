@@ -1,0 +1,85 @@
+2025-07-14 11:14:41,hey,"⚠️ An error occurred while generating the response: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",243,,,👎
+2025-07-14 12:31:47,hey,"⚠️ An error occurred while generating the response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.",437,,,👎
+2025-07-14 12:37:56,hey,⚠️ An error occurred while generating the response: Incorrect API key provided: sk-proj-*************************************************************************************mIc1. You can find your API key at https://platform.openai.com/account/api-keys.,253,,,👎
+2025-07-14 13:38:38,what are the services provided,"Welleazy offers a range of services tailored to meet the healthcare needs of corporate customers, including:
+
+1. **Health Risk Assessment**: Identifies the health status of employees and the overall health quotient of the organization.
+2. **Occupational Health Center**: Provides onsite medical room solutions for real-time health tracking and treatment by qualified medical professionals.
+3. **E-Consultation**: A 24/7 service across all specialties available in 18+ languages for employees.
+4. **Pre-Employment Health Checkup**: Annual health check-up facilities to promote a healthy workforce and higher productivity.
+5. **Wellness Calendar**: Comprehensive wellness services linked to a calendar crafted in consultation with the company’s HR.
+6. **Vaccination Services**: Facilitates all vaccination and care requirements for employees and their family members.
+
+These services are designed to enhance employee health and well-being while ensuring compliance with health regulations.",987,0.4887,0.7982,👍
+2025-07-16 15:44:04,🏥 What health services do you offer?,"Welleazy offers a range of health services tailored for corporate customers, including:
+
+1. **Health Risk Assessment**: Identifies the health status of employees and the overall health quotient of the organization.
+2. **Occupational Health Center**: Provides onsite medical room solutions to track and treat employees' health needs in real-time.
+3. **E-Consultation**: A 24/7 service across all specialties available in 18+ languages for employees.
+4. **Pre Employment Health Checkup**: Annual health check-up facilities to ensure a healthy workforce.
+5. **Wellness Calendar**: Comprehensive wellness services linked to a calendar crafted in consultation with the company’s HR.
+6. **Vaccination**: Facilitates all vaccination and care requirements for employees and their family members.
+
+These services aim to make healthcare accessible and affordable while promoting employee health and productivity.",902,,,👎,1752660840070,No,
+2025-07-16 16:01:29,🏥 What health services do you offer?,"Welleazy offers a range of health services tailored for corporate customers, including:
+
+1. **Health Risk Assessment** - Identifies the health status of employees and the overall health quotient of the organization.
+2. **Occupational Health Center** - Provides onsite medical room solutions for real-time health tracking and treatment by qualified professionals.
+3. **E-Consultation** - A 24/7 service across all specialties available in 18+ languages for employee consultations.
+4. **Pre-Employment Health Checkup** - Annual health check-up facilities to promote a healthy workforce.
+5. **Wellness Calendar** - Comprehensive wellness services linked to a calendar crafted in consultation with the company’s HR.
+6. **Vaccination Services** - Facilitates vaccination and care requirements for employees and their families.
+
+These services aim to make healthcare accessible and affordable while ensuring the health and safety of employees.",937,,,👎,1752661886113,No,
+2025-07-16 16:03:12,🏥 What health services do you offer?,"Welleazy offers a range of health services tailored for corporate customers, including:
+
+1. **Health Risk Assessment**: Identifying the health status of employees and the overall health quotient of the organization.
+2. **Occupational Health Center**: Onsite medical room solutions for real-time health tracking and treatment by qualified medical professionals.
+3. **E-Consultation**: A 24/7 network providing access to various specialties in over 18 languages.
+4. **Pre-Employment Health Checkups**: Annual health check-up facilities to promote a healthy workforce.
+5. **Wellness Calendar**: Comprehensive wellness services linked to a calendar developed in consultation with the company's HR.
+6. **Vaccination Services**: Facilitating vaccinations and care requirements for employees and their families.
+
+These services aim to make healthcare accessible and affordable while ensuring the health and safety of employees.",920,,,👎,1752661974360,No,
+2025-07-16 16:03:40,contact,"I'm sorry, but I couldn't find reliable information for your question within Welleazy's website content.
+
+For more details, please contact our human support team:
+📞 +91-9071167676
+📧 hello@welleazy.com",200,,,👍,1752662007915,Yes,Bot's answer indicated low confidence or out-of-scope.
+2025-07-16 16:20:57,🏥 What health services do you offer?,"Welleazy offers a range of health services tailored for corporate customers, including:
+
+1. **Health Risk Assessment**: Identifying the health status of employees and the overall health quotient of the organization.
+2. **Occupational Health Center**: Onsite medical room solutions for real-time health tracking and treatment by qualified medical professionals.
+3. **E-Consultation**: A 24/7 network providing access to various specialties in over 18 languages.
+4. **Pre-Employment Health Checkups**: Annual health check-up facilities to promote a healthy workforce.
+5. **Wellness Calendar**: Comprehensive wellness services linked to a calendar developed in consultation with the company's HR.
+6. **Vaccination Services**: Facilitating vaccinations and care requirements for employees and their families.
+
+These services aim to make healthcare accessible and affordable while ensuring the health and safety of employees.",920,,,👎,1752663044417,No,
+2025-07-16 16:39:23,💪 Tell me about wellness programs,"At Welleazy, we offer comprehensive wellness services that are linked to a wellness calendar, which is crafted in consultation with the company’s HR. Our wellness programs are designed to promote the health and well-being of employees, ultimately contributing to higher productivity and a healthier workforce. These programs may include health check-ups, e-consultations, health risk assessments, and vaccination services, all tailored to meet the specific needs of corporate clients and their employees. If you need more detailed information about specific wellness services, please let me know!",596,,,👍,1752664160368,No,
+2025-07-16 16:39:39,📅 How can I book a health checkup?,"To book a health checkup, you can reach out to Welleazy directly through our website or contact our customer service for assistance. We offer annual health check-up facilities for employees as part of our services to corporate clients. If you are part of a corporate organization that partners with us, your HR department can provide you with the necessary details on how to schedule your health checkup.",404,,,👎,1752664177923,No,
+2025-07-16 16:44:19,📅 How can I book a health checkup?,"To book a health checkup, you can reach out to Welleazy directly through our website or contact our customer service for assistance. We offer annual health check-up facilities for employees as part of our services to corporate clients. If you are part of a corporate organization that partners with us, your HR department can provide you with the necessary details on how to schedule your health checkup.",404,,,👎,1752664454295,No,
+2025-07-16 16:49:43,💊 What is the health risk assessment program?,"The Health Risk Assessment program at Welleazy helps corporates identify the health status of their employees and assess the overall health quotient for the entire organization. This practice is designed to provide insights into employee health, enabling companies to implement effective wellness strategies and improve overall workplace health.",345,,,👍,1752664774626,No,
+2025-07-16 19:05:53,🏥 What health services do you offer?,"Welleazy offers a range of health services tailored for corporate customers, including:
+
+1. **Health Risk Assessment**: Identifies the health status of employees and the overall health quotient of the organization.
+2. **Occupational Health Center**: Provides onsite medical room solutions to track and treat employees' health needs in real-time.
+3. **E-Consultation**: A 24/7 service across all specialties available in 18+ languages for employees.
+4. **Pre-Employment Health Checkup**: Annual health check-up facilities to promote a healthy workforce.
+5. **Wellness Calendar**: Comprehensive wellness services linked to a calendar crafted in consultation with the company’s HR.
+6. **Vaccination**: Facilitates all vaccination and care requirements for employees and their family members.
+
+These services aim to make healthcare accessible and affordable while ensuring the health and safety of employees.",904,,,👎,1752672950947,No,
+2025-07-16 20:00:26,📅 What is the health risk assesment program?,"The Health Risk Assessment program at Welleazy helps corporates identify the health status of their employees and the overall health quotient for the entire organization. This practice is designed to provide insights into employee health, enabling organizations to implement effective wellness strategies.",305,,,👎,1752676222941,No,
+2025-07-16 20:07:29,tell me not something about care program but about e-consultation,"Welleazy offers a robust E-Consultation service that provides access to medical professionals 24/7 across all specialties. This service is available in over 18 languages, ensuring that employees can receive the care they need at any time. The E-Consultation platform is designed to make healthcare accessible and convenient for employees, allowing them to consult with qualified medical experts remotely.",404,,,👎,1752676639108,No,
+2025-07-16 20:20:25,"Hello, can you please tell me the services offered by you?","Welleazy offers a range of services tailored for corporate health needs, including:
+
+1. **Health Risk Assessment** - Identifies the health status of employees and the overall health quotient of the organization.
+2. **Occupational Health Center** - Provides onsite medical room solutions to track and treat employees' health needs in real-time.
+3. **E-Consultation** - A 24/7 service across all specialties available in 18+ languages for employees.
+4. **Pre Employment Health Checkup** - Annual health check-up facilities to promote a healthy workforce.
+5. **Wellness Calendar** - Comprehensive wellness services linked to a wellness calendar crafted in consultation with the company’s HR.
+6. **Vaccination** - Facilitates all vaccination and care requirements for employees and their family members.
+
+These services aim to make healthcare accessible and affordable for corporate customers.",889,,,👎,1752677414528,No,
+2025-07-16 21:53:27,📅 How can I book a health checkup?,"To book a health checkup, you can reach out to Welleazy directly through our website or contact our customer service for assistance. We offer annual health check-up facilities for employees as part of our corporate health solutions. If you are part of a corporate client, your HR department may also provide information on how to schedule your health checkup.",359,,,👎,1752682995536,No,
